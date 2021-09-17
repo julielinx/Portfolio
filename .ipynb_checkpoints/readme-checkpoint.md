@@ -11,7 +11,7 @@ Insightful and solution-oriented data scientist professional with hands-on exper
 
 ### Analytics and Charts
 
-- Volleyball Statistics
+- Volleyball Statistics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/julielinx/Portfolio/master)
 
 ### Social Networking
 
